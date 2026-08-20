@@ -284,7 +284,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Shop Exterior & Entrance',
     description: 'Official Euro Car Services facility view on North Florida Avenue in Tampa, FL.',
     googleMapsUrl: 'https://maps.app.goo.gl/qxxTdLZUdQF3imNu7',
-    imageUrl: 'https://images.unsplash.com/photo-1613214149922-f1809c99b414?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnbUY16nfoWvth8KJpPdvrq1WfLs2D0GgkCE5T-n1VwvE7OWAc55aqA3p3BjGA7ASxk40QDkTySaSWwLZx4Q1lSuzGiGpYfVfYHqtQS8z_WtANH-4cPkF25mskKa8RfcyMxcTMZ1Hvgyrw=w1000',
   },
   {
     id: 2,
@@ -293,7 +293,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Diagnostic Testing',
     description: 'Computerized diagnostics and electrical fault identification for European vehicles.',
     googleMapsUrl: 'https://maps.app.goo.gl/t3Gno1uzZuTN8GJH7',
-    imageUrl: 'https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl8AIrumEkgaRoQaOhLDpbQJa30Yj4wJl01JSJzLRYKk9CVr-2P16LyOxVBufXjJdz8pVcn28zdCeyoDMrlp96on4Q0BZ5gMKv1_RcWNX1gdogDfxjH9uYZxPaTacFVQ3l4SA6JmGVfACI=w1000',
   },
   {
     id: 3,
@@ -302,7 +302,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Brake & Chassis',
     description: 'Precision hydraulic brake service, caliper overhaul, and suspension maintenance.',
     googleMapsUrl: 'https://maps.app.goo.gl/HP1gzAFQb8sqrfqBA',
-    imageUrl: 'https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmPbW7WjyYnlnTFDc3enUxqIc96WpakVvzqX2m0-ziSa4Nqcb0Gl0OY0IH605H0xDvd0rOhzNxWUhKmItKr2WVq0WUtZ8NWp4fMmYeMv7vhwKhUO9XMnYLpOd_AKq5SI9AsT34zavgNHoHw=w1000',
   },
   {
     id: 4,
@@ -311,7 +311,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Engine Service',
     description: 'Detailed engine mechanical service, timing components, and fluid system sealing.',
     googleMapsUrl: 'https://maps.app.goo.gl/V7Mm4dvL93c8kvNh6',
-    imageUrl: 'https://images.unsplash.com/photo-1517524008697-84bbe3c3fd98?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWktSoerg6iNyQaeZMZJwq-YFNe3wzfw33-3sXElgi_rFJWpLK7SHROU-Qce75D3lUiS0btlNA72_U0jE17MXFKg5MnD_Ths3hDw91jhEOSHleyQLZWCjkosDRNufn8TX3gtBOD1qrTbvQbL=w1000',
   },
   {
     id: 5,
@@ -320,7 +320,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Underbody Inspection',
     description: 'Comprehensive multi-point vehicle lift inspection and drivetrain evaluations.',
     googleMapsUrl: 'https://maps.app.goo.gl/4NGv84v5E1YF3ZLR8',
-    imageUrl: 'https://images.unsplash.com/photo-1580273916550-e323be2ae537?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWkHCaRXUNDDoutdcToiHi4FwmyiRAFRWppN1qbA2Y9dqzbHpxLK43O-Me2Fw_uYI8cMEwjXwkWG1WJShDBF79B4exljQJcXnC88r2sZGquECRadjfxb_rySEPxuzvYPu8CxjYiMDMB5spc=w1000',
   },
   {
     id: 6,
@@ -329,7 +329,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Synthetic Oil & Filters',
     description: 'Factory-spec synthetic lubrication, filtration, and preventive fluid exchanges.',
     googleMapsUrl: 'https://maps.app.goo.gl/fQkpTKxKxLgkmQc6A',
-    imageUrl: 'https://images.unsplash.com/photo-1625047509168-a7026f36de04?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWlO74sX-jwMyYjnqjhZiLQfdzQL5NexcmmH72yWwfAeDubLa7lqIoIcjRripxHwda_wsHjmlQgX1I8_2EmwhSKT-xC_YVEsDlc35gi15zAJR0JtVBiYcPtO4BbLGvxqFIUsuACm0B5WvmH6=w1000',
   },
   {
     id: 7,
@@ -338,7 +338,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'AC System Service',
     description: 'High-precision refrigerant recovery, cooling fan testing, and condenser service.',
     googleMapsUrl: 'https://maps.app.goo.gl/s4GweesN6Ho7HGZJ9',
-    imageUrl: 'https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWnAEuYTvGOdFLTZuqqzYUneWExJkKtG-kAY7MehM91YbGvb3Ea-X7dOieiYPeilIJzg_EvlE_5WTeBJl_TYgbw5DZJAQpPlQEd6VpJ-ZRXr3AknMeQXDKnZLLVrqMu1SPmO4bPPtRbqWM2A=w1000',
   },
   {
     id: 8,
@@ -347,7 +347,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Module & Wiring Diagnostics',
     description: 'Specialized wiring harness inspection, alternator testing, and battery health checks.',
     googleMapsUrl: 'https://maps.app.goo.gl/eYGEJANxX3Uzo7rNA',
-    imageUrl: 'https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWk21Jnjg8x3Nz-AsFBL0FiLwx89miYXWr6KWx7X_oaPxvd6EA93FSEYiFoTVrzz-mwYMdBYc2-vXDlP17TWy9xmTWpub75SUt_LDa48ijYXW3RnPaFokCZnrd676kyFZEbDjlwSfRUM1lWc=w1000',
   },
   {
     id: 9,
@@ -356,7 +356,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Drivetrain Care',
     description: 'Transmission diagnostics, axle boot inspection, and differential maintenance.',
     googleMapsUrl: 'https://maps.app.goo.gl/WYB2GLW8KYiQBo529',
-    imageUrl: 'https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWmhfh4XLXZnMao6Vb6qLBzuulN2d8tsZE2TqAcGW-S3Uijh0LX9tO5R_4llN8C0U1-Hxa7xd5r1IvQGrTUXM9Jfh7riVlthUCObfNXVAOeZBofkcPcR4xCypIahyYtQk7GLm-n7FgPw30Pc=w1000',
   },
   {
     id: 10,
@@ -365,6 +365,6 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     tag: 'Tampa Service Center',
     description: 'Dedicated Tampa service location welcoming drivers seeking dependable automotive repair.',
     googleMapsUrl: 'https://maps.app.goo.gl/jtCLZGuV6mnVWTAZ6',
-    imageUrl: 'https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1000&q=80',
+    imageUrl: 'https://lh3.googleusercontent.com/gps-cs-s/AHRPTWl4zlyNAlG87uQVGfdF88LYw2KCQwBExx_SE1rOxXzS9e1x-vlMqLUUCHEyBFTJsBhdZy0jbS0ChfN2RbdgwXQaiwnMo4Z2sznCQ729jHXQPb6m5lkRjLI3zs4fy1PHbMneYmIkN2ZTb1SA=w1000',
   },
 ];
