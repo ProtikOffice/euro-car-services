@@ -1,0 +1,6 @@
+{
+  "name": "Euro Car Services",
+  "description": "Euro Car Services provides professional European auto repair and automotive maintenance services in Tampa, Florida. Visit us at 14228 N Florida Ave #103 or call +1 813-679-6496.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

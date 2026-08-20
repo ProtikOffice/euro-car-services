@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --font-chakra: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+    --font-jakarta: 'Plus Jakarta Sans', system-ui, -apple-system, sans-serif;
+  }
+
+  html {
+    font-family: var(--font-jakarta);
+    scroll-behavior: smooth;
+  }
+
+  h1, h2, h3, .font-heading {
+    font-family: var(--font-jakarta);
+    letter-spacing: -0.02em;
+  }
+}
+
+/* Subtle clean minimalist patterns */
+.bg-grid-slate-pattern {
+  background-size: 32px 32px;
+  background-image: 
+    linear-gradient(to right, rgba(148, 163, 184, 0.12) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(148, 163, 184, 0.12) 1px, transparent 1px);
+}
+
+.bg-dot-pattern {
+  background-image: radial-gradient(rgba(203, 213, 225, 0.8) 1px, transparent 1px);
+  background-size: 20px 20px;
+}
+
